@@ -1,3 +1,5 @@
+<?php
+
 //1
 public function files()
 	{
@@ -66,7 +68,8 @@ public function files()
     
     
     //3
-    
+    ?>
+
     <!doctype html>
 <html>
 <head>
